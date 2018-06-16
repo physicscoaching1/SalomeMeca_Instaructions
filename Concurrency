@@ -1,0 +1,7 @@
+Add Gevent Green threading worker to Gunicorn
+
+https://robertoprevato.github.io/How-to-run-PyPy-powered-web-apps-in-Docker/
+
+However adding gevent to uWSGI might be better
+
+https://blog.kgriffs.com/2012/12/18/uwsgi-vs-gunicorn-vs-node-benchmarks.html
