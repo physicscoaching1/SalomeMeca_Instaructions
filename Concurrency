@@ -1,7 +1,15 @@
-Add Gevent Green threading worker to Gunicorn
+Add Gevent threading worker (Greenlets) to Gunicorn
 
 https://robertoprevato.github.io/How-to-run-PyPy-powered-web-apps-in-Docker/
 
 However adding gevent to uWSGI might be better
 
 https://blog.kgriffs.com/2012/12/18/uwsgi-vs-gunicorn-vs-node-benchmarks.html
+
+
+
+also see different worker options available for unicorn including asyncio workets
+
+http://docs.gunicorn.org/en/stable/design.html
+
+see videos on youtube your asyncio web frameworks like SANIC (type python sanic in youtube)
