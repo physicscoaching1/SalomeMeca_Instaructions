@@ -13,3 +13,11 @@ also see different worker options available for unicorn including asyncio worket
 http://docs.gunicorn.org/en/stable/design.html
 
 see videos on youtube your asyncio web frameworks like SANIC (type python sanic in youtube)
+
+Meinheld looks very good
+https://medium.freecodecamp.org/million-requests-per-second-with-python-95c137af319
+
+How to add Meinheild worker to Gunicorn
+https://github.com/mopemope/meinheld
+
+
