@@ -1,0 +1,20 @@
+Salome Meca..
+
+Pan-Zoom-Rotate from  Mouse after pressing Control Key--initially
+However you can change this by pressing the "interaction style Switch" and "Zooming style Switch" in the 3D View Operations menu
+--Just below the screen viewers
+
+probable bug with the system -- Showhide stops working..Just change from geometry module to other module and retart work
+
+
+1) Import Step File.
+
+2) The model will come as single...To explode the components..go to "New Entity" - "Explode" - Select subshape type as "Solid"
+
+
+For Meshing 3d  ..
+Select  the Part/Parts and click on the "create mesh" on the top menubar item
+Use "Meshtype"- Any 
+Use - NETGEN 1D-2D-3D AS ALGORITHM
+Under Hypothesis- Select "Settings"  - Then "NETGEN 3D Parameters" to select Mesh Size. 
+
